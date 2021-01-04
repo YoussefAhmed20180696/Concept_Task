@@ -1,0 +1,61 @@
+Idea Number : 3
+
+Idea Title: 2048 Game
+
+Registration Sheet Row Number: 103
+
+Team Members (Arabic):
+
+Team Member 1
+الاسم:يوسف احمد علي 
+
+ID:20180696
+-------------------------------------
+Team Member 2
+الاسم: يوسف اشرف عبدالله
+
+ID:20180697
+-------------------------------------
+Team Member 3
+الاسم:مي سلامة عبدالرحيم
+
+ID:20180637
+------------------------------------
+Team Member 4
+الاسم:محمد ابونعمان عبدالفتاح
+
+ ID:20180456
+--------------------------------------
+Team Member 5
+الاسم:محمود محمد عباس
+
+ID:20180570
+----------------------------------------------------------------------------------------------------------------------
+
+Team Members (English):
+
+-Team Member 1
+Name: Youssef Ahmed Aly
+
+ID:20180696
+-------------------------------------
+-Team Member 2
+Name:Youssef Ashraf Abdallah
+
+ID:20180697
+-------------------------------------
+-Team Member 3
+Name:Mai Salama Abdelrehem
+
+ID:20180637
+------------------------------------
+Team Member 4
+Name:Mohammed Abu Numan AbdelFattah
+
+ID:20180456
+--------------------------------------
+Team Member 5
+Name:Mahmoud Mohamed Abbas
+
+ID:20180570
+
