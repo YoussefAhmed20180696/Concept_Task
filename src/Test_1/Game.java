@@ -104,19 +104,19 @@ public class Game {
 			hasMoved = false;
 		}
 		if(!moving && !hasMoved) {
-			if(Keyboard.keyDown(KeyEvent.VK_A)) {
+			if(Keyboard.keyDown(KeyEvent.VK_LEFT)) {
 				hasMoved = true;
 				moving = true;
 				dir = 0;
-			}else if(Keyboard.keyDown(KeyEvent.VK_D)) {
+			}else if(Keyboard.keyDown(KeyEvent.VK_RIGHT)) {
 				hasMoved = true;
 				moving = true;
 				dir = 1;
-			}else if(Keyboard.keyDown(KeyEvent.VK_W)) {
+			}else if(Keyboard.keyDown(KeyEvent.VK_UP)) {
 				hasMoved = true;
 				moving = true;
 				dir = 2;
-			}else if(Keyboard.keyDown(KeyEvent.VK_S)) {
+			}else if(Keyboard.keyDown(KeyEvent.VK_DOWN)) {
 				hasMoved = true;
 				moving = true;
 				dir = 3;
